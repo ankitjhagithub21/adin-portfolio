@@ -1,0 +1,22 @@
+body{
+    background-color: whitesmoke;
+}
+
+#home img{
+   max-height: 550px;
+   margin: auto;
+   width: 100%;
+   object-fit: contain;
+   
+}
+
+span,a {
+    color: red;
+}
+
+#blogs img{
+    margin: auto;
+}
+#about img{
+    float: right;
+}
